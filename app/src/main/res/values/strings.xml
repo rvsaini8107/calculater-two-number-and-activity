@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Two Digit Calculator app</string>
+    <string name="plus">+</string>
+    <string name="sub">-</string>
+    <string name="mult">X</string>
+    <string name="div">/</string>
+    <string name="divd">/</string>
+</resources>
